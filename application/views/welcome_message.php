@@ -78,18 +78,6 @@
 									<input type="text" class="form-control" id="name-srch" name="search_name" value="">
 								</div>
 						</div>
-						<div class="form-group">
-								<label for="name-in" class="col-md-3 label-heading">Email</label>
-								<div class="col-md-9">
-									<input type="email" class="form-control" id="email-srch" name="search_email" value="">
-								</div>
-						</div>
-						<div class="form-group">
-								<label for="phone-in" class="col-md-3 label-heading">Phone Number</label>
-								<div class="col-md-9">
-									<input type="number" class="form-control" id="phone-srch" name="search_phone" value="">
-								</div>
-						</div>
 					</div>
 					<?php echo form_close() ?>
 				</div>
